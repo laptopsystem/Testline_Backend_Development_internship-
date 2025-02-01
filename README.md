@@ -36,8 +36,12 @@ Before running the project, ensure you have the following installed:
 - Python (>= 3.7)
 - `pip` (Python package manager)
 
+### Installation
 
+1. Navigate to the project directory.
+
+2. Create a virtual environment (optional but recommended):
 
    ```bash
-   git clone https://github.com/yourusername/neet-rank-prediction.git
-   cd neet-rank-prediction
+   python3 -m venv venv
+   source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
