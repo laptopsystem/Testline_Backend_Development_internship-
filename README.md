@@ -36,9 +36,7 @@ Before running the project, ensure you have the following installed:
 - Python (>= 3.7)
 - `pip` (Python package manager)
 
-### Installation
 
-1. Clone this repository:
 
    ```bash
    git clone https://github.com/yourusername/neet-rank-prediction.git
