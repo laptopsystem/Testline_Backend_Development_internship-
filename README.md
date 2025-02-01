@@ -36,12 +36,3 @@ Before running the project, ensure you have the following installed:
 - Python (>= 3.7)
 - `pip` (Python package manager)
 
-### Installation
-
-1. Navigate to the project directory.
-
-2. Create a virtual environment (optional but recommended):
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate   # On Windows, use 'venv\Scripts\activate'
